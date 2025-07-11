@@ -8,6 +8,7 @@ if [[ -n "$(git status --porcelain)" ]]; then
     echo "有文件变化（修改、新增或删除）"
 else
     echo "没有文件变化"
+    exit 0
 fi
 
 
