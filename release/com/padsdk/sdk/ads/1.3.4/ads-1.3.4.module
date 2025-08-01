@@ -35,11 +35,11 @@
         {
           "name": "ads-1.3.4.aar",
           "url": "ads-1.3.4.aar",
-          "size": 254482,
-          "sha512": "6caf71ce528ef94953838911a39e3b16c825180d2802d8c77dfef7582e60b65d3e4c11f936206142d50801a152ba6fe380e67ff78bf11d38db2df91250638e54",
-          "sha256": "367667f5bdc1eafc6e31645d9b009ade08511a3c087e5a401fef88eaeb4dc929",
-          "sha1": "072e5fa191552a34ce0516423d0fbd71aaae77a8",
-          "md5": "f7817c7a22a751c8497518cabaed3491"
+          "size": 256666,
+          "sha512": "d49025f0697873bd57f43ec78ed82b438607dcc66cd01b41f2e1a14f1ef14a93d3f9e123cb3fe6b705e1380d18d061f09ebb4efc86d0da9dc70868159ab412cf",
+          "sha256": "f2b1c7a1f15440451c87d9cf004045919037675d188529127e21e4d0958e443f",
+          "sha1": "78b612435711e27499d764a33d2c4f4ec2ad4c1c",
+          "md5": "0cc42eb079ed58b9c4204abd61fe80cc"
         }
       ]
     },
@@ -242,11 +242,11 @@
         {
           "name": "ads-1.3.4.aar",
           "url": "ads-1.3.4.aar",
-          "size": 254482,
-          "sha512": "6caf71ce528ef94953838911a39e3b16c825180d2802d8c77dfef7582e60b65d3e4c11f936206142d50801a152ba6fe380e67ff78bf11d38db2df91250638e54",
-          "sha256": "367667f5bdc1eafc6e31645d9b009ade08511a3c087e5a401fef88eaeb4dc929",
-          "sha1": "072e5fa191552a34ce0516423d0fbd71aaae77a8",
-          "md5": "f7817c7a22a751c8497518cabaed3491"
+          "size": 256666,
+          "sha512": "d49025f0697873bd57f43ec78ed82b438607dcc66cd01b41f2e1a14f1ef14a93d3f9e123cb3fe6b705e1380d18d061f09ebb4efc86d0da9dc70868159ab412cf",
+          "sha256": "f2b1c7a1f15440451c87d9cf004045919037675d188529127e21e4d0958e443f",
+          "sha1": "78b612435711e27499d764a33d2c4f4ec2ad4c1c",
+          "md5": "0cc42eb079ed58b9c4204abd61fe80cc"
         }
       ]
     },

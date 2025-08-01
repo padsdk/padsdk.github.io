@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.padsdk.sdk</groupId>
+  <groupId>com.script.gradle</groupId>
   <artifactId>ads</artifactId>
   <versioning>
     <latest>1.3.4</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>1.3.4</version>
     </versions>
-    <lastUpdated>20250801030653</lastUpdated>
+    <lastUpdated>20250801030639</lastUpdated>
   </versioning>
 </metadata>
